@@ -1,0 +1,5 @@
+﻿  Graphics.cpp
+C:\Users\Yubbie\OneDrive\Documents\VS Code\Graphics\Graphics.cpp(40,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Yubbie\OneDrive\Documents\VS Code\Graphics\Graphics.cpp(41,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Yubbie\OneDrive\Documents\VS Code\Graphics\Graphics.cpp(349,27): warning C4101: 'shadowT': unreferenced local variable
+  Graphics.vcxproj -> C:\Users\Yubbie\OneDrive\Documents\VS Code\Graphics\x64\Debug\Graphics.exe
